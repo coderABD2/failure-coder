@@ -1,3 +1,4 @@
 # failure-coder
-author:rajesh ram
+author-rajesh ram
+
 
